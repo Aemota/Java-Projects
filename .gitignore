@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+# configuración de entorno de Java
+.bashrc
+.bash_profile
+*.properties
+*.xml
+
+# variables de entorno de Java
+java.env
+
 # Log file
 *.log
 
