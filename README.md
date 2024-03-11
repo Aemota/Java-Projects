@@ -3,7 +3,7 @@
 
 *(english below)*
 
-En este repositorio voy incluyendo algunos de los proyectos que he ido realizando durante el primer curso del Ciclo Formativo de Desarrollo de Aplicaciones Multiplataforma y que abarcan los siguientes temas:
+En este repositorio voy incluyendo algunos de los proyectos que he ido realizando durante el primer curso del Ciclo Formativo de Desarrollo de Aplicaciones Multiplataforma que abarcan los siguientes temas:
 
 - **Fundamentos de Java**: conceptos básicos como variables, tipos de datos, estructuras de control y funciones.
 - **Uso avanzado de Java**: manejo de excepciones, entrada/salida, manejo de archivos, manipulación de cadenas y arrays.
