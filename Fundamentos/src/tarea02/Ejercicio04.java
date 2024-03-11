@@ -9,7 +9,7 @@ import java.util.Random;
 /**
  * Ejercicio 4: Simulador de Máquina Tragaperras.
  *
- * @author Alba Esperanza Jiménez Mota
+ * @author Alba 
  */
 public class Ejercicio04 {
 
