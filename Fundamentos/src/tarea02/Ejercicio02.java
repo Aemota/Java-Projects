@@ -6,7 +6,7 @@ package tarea02;
 
 /**
  * Ejercicio 2: Máquina Expendedora
- * @author Alba Esperanza Jiménez Mota
+ * @author Alba 
  */
 import java.util.Scanner;
 
