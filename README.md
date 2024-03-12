@@ -12,7 +12,7 @@ En este repositorio voy incluyendo algunos de los proyectos que he ido realizand
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-In this repository, I am including some of the projects I have been working on during the first year of the Multiplatform Application Development Vocational Training Cycle, covering the following topics:
+In this repository, I am including some of the projects I have been working on during the first year of Higher Education in Multiplatform Application Development, covering the following topics:
 
 - **Java Fundamentals**: Basic concepts such as variables, data types, control structures, and functions.
 - **Advanced Java Usage**: Exception handling, input/output, file handling, string manipulation and arrays.
